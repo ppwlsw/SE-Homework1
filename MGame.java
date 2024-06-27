@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//6510450658 Pinpawat Limsuwat
+
+
 class MGame {
     private int roundCnt;
     private Die[] dice;
