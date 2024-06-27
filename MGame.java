@@ -33,6 +33,7 @@ class MGame {
 
             playRound();
         }
+        System.out.printf("\n ====== Game is over ====== \n");
     }
 
     private void playRound() {
